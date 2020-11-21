@@ -7,4 +7,5 @@ for i in range (n):
 	print(7*i)
 
 
-	
+print (a.shape[0])
+
